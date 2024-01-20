@@ -1,0 +1,5 @@
+train: ./UDIS-D/train.txt
+val: ./UDIS-D/test.txt
+test: ./UDIS-D/test.txt
+
+

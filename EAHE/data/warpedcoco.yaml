@@ -1,0 +1,3 @@
+train: ./warpedcoco/train.txt
+val: ./warpedcoco/test.txt
+test: ./warpedcoco/test.txt
